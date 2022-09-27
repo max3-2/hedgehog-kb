@@ -2907,16 +2907,187 @@
       (reference "C7") (unit 1) (value "1u") (footprint "Capacitor_SMD:C_0805_2012Metric")
     )
     (path "/eb09f9fb-b1c2-4630-9ea1-925f201f477f/104e3377-ffab-45ca-bd72-cfcf1ee4fded"
-      (reference "D1") (unit 1) (value "1N4148") (footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal")
-    )
-    (path "/eb09f9fb-b1c2-4630-9ea1-925f201f477f/9d921b17-eeaf-4a5c-b717-395a7a884604"
-      (reference "D2") (unit 1) (value "1N4148") (footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal")
+      (reference "D0") (unit 1) (value "1N4148") (footprint "Diode_SMD:D_SOD-123F")
     )
     (path "/eb09f9fb-b1c2-4630-9ea1-925f201f477f/1dcec86c-58d5-4ade-beb2-a0a6735102b3"
-      (reference "D3") (unit 1) (value "1N4148") (footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal")
+      (reference "D1") (unit 1) (value "1N4148") (footprint "Diode_SMD:D_0805_2012Metric")
+    )
+    (path "/eb09f9fb-b1c2-4630-9ea1-925f201f477f/111fcaf7-1a40-4630-9eb7-38cd2aa265b1"
+      (reference "D2") (unit 1) (value "1N4148") (footprint "Diode_SMD:D_0805_2012Metric")
+    )
+    (path "/eb09f9fb-b1c2-4630-9ea1-925f201f477f/6daf4376-81f1-4af9-ad64-d50a5d52c26c"
+      (reference "D3") (unit 1) (value "1N4148") (footprint "Diode_SMD:D_0805_2012Metric")
+    )
+    (path "/eb09f9fb-b1c2-4630-9ea1-925f201f477f/84c617d5-301e-4631-8a96-d8095cab9a42"
+      (reference "D4") (unit 1) (value "1N4148") (footprint "Diode_SMD:D_0805_2012Metric")
+    )
+    (path "/eb09f9fb-b1c2-4630-9ea1-925f201f477f/3bbee0b6-79ca-4cbb-9e14-740194e2f345"
+      (reference "D5") (unit 1) (value "1N4148") (footprint "Diode_SMD:D_0805_2012Metric")
+    )
+    (path "/eb09f9fb-b1c2-4630-9ea1-925f201f477f/181ad7f3-d36d-403b-97f1-13cd7ad8de61"
+      (reference "D6") (unit 1) (value "1N4148") (footprint "Diode_SMD:D_0805_2012Metric")
+    )
+    (path "/eb09f9fb-b1c2-4630-9ea1-925f201f477f/85c25270-af39-40ab-80c6-d2aac933cdfe"
+      (reference "D7") (unit 1) (value "1N4148") (footprint "Diode_SMD:D_0805_2012Metric")
+    )
+    (path "/eb09f9fb-b1c2-4630-9ea1-925f201f477f/41a3e698-333b-4694-a512-eb930bf68ecd"
+      (reference "D8") (unit 1) (value "1N4148") (footprint "Diode_SMD:D_0805_2012Metric")
+    )
+    (path "/eb09f9fb-b1c2-4630-9ea1-925f201f477f/9d921b17-eeaf-4a5c-b717-395a7a884604"
+      (reference "D10") (unit 1) (value "1N4148") (footprint "Diode_SMD:D_0805_2012Metric")
     )
     (path "/eb09f9fb-b1c2-4630-9ea1-925f201f477f/21f89f11-6503-48f7-987a-996f914a5f32"
-      (reference "D4") (unit 1) (value "1N4148") (footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal")
+      (reference "D11") (unit 1) (value "1N4148") (footprint "Diode_SMD:D_0805_2012Metric")
+    )
+    (path "/eb09f9fb-b1c2-4630-9ea1-925f201f477f/8bb342d1-d087-494a-aacb-fc3d74a7b482"
+      (reference "D12") (unit 1) (value "1N4148") (footprint "Diode_SMD:D_0805_2012Metric")
+    )
+    (path "/eb09f9fb-b1c2-4630-9ea1-925f201f477f/f3ddc296-dfa1-4e67-9e80-79079b2d4c73"
+      (reference "D13") (unit 1) (value "1N4148") (footprint "Diode_SMD:D_0805_2012Metric")
+    )
+    (path "/eb09f9fb-b1c2-4630-9ea1-925f201f477f/d9b52f2a-4d91-44d5-9b87-ee8bfe051dcc"
+      (reference "D14") (unit 1) (value "1N4148") (footprint "Diode_SMD:D_0805_2012Metric")
+    )
+    (path "/eb09f9fb-b1c2-4630-9ea1-925f201f477f/1fa44f1f-ce0b-43b9-9cc5-30032ec61fed"
+      (reference "D15") (unit 1) (value "1N4148") (footprint "Diode_SMD:D_0805_2012Metric")
+    )
+    (path "/eb09f9fb-b1c2-4630-9ea1-925f201f477f/0149dd73-3f1b-4caa-b1ea-1da1f0ed8452"
+      (reference "D16") (unit 1) (value "1N4148") (footprint "Diode_SMD:D_0805_2012Metric")
+    )
+    (path "/eb09f9fb-b1c2-4630-9ea1-925f201f477f/d6473ffc-db46-42b0-9493-fb87fbbe8e5f"
+      (reference "D17") (unit 1) (value "1N4148") (footprint "Diode_SMD:D_0805_2012Metric")
+    )
+    (path "/eb09f9fb-b1c2-4630-9ea1-925f201f477f/401b2929-8139-489f-bc53-b19106c91198"
+      (reference "D18") (unit 1) (value "1N4148") (footprint "Diode_SMD:D_0805_2012Metric")
+    )
+    (path "/eb09f9fb-b1c2-4630-9ea1-925f201f477f/76755421-8bbd-4add-9738-31db70227ba1"
+      (reference "D20") (unit 1) (value "1N4148") (footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal")
+    )
+    (path "/eb09f9fb-b1c2-4630-9ea1-925f201f477f/c1f33aa1-c60e-4d53-ac33-4f93dde2258b"
+      (reference "D21") (unit 1) (value "1N4148") (footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal")
+    )
+    (path "/eb09f9fb-b1c2-4630-9ea1-925f201f477f/a7035c35-9377-4ebe-a7c9-b616164fc584"
+      (reference "D22") (unit 1) (value "1N4148") (footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal")
+    )
+    (path "/eb09f9fb-b1c2-4630-9ea1-925f201f477f/b1b4d4f9-273f-4acf-bc0d-c035acfc0401"
+      (reference "D23") (unit 1) (value "1N4148") (footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal")
+    )
+    (path "/eb09f9fb-b1c2-4630-9ea1-925f201f477f/e9180904-6bc8-4559-9e33-5355983e49cd"
+      (reference "D24") (unit 1) (value "1N4148") (footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal")
+    )
+    (path "/eb09f9fb-b1c2-4630-9ea1-925f201f477f/cf78f14e-6485-4b67-81b2-c031ac8a2645"
+      (reference "D25") (unit 1) (value "1N4148") (footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal")
+    )
+    (path "/eb09f9fb-b1c2-4630-9ea1-925f201f477f/60f91099-0671-4c04-8134-8aef5f004f58"
+      (reference "D26") (unit 1) (value "1N4148") (footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal")
+    )
+    (path "/eb09f9fb-b1c2-4630-9ea1-925f201f477f/2e490a69-fa1d-4f02-9e9d-d72afc7572c4"
+      (reference "D27") (unit 1) (value "1N4148") (footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal")
+    )
+    (path "/eb09f9fb-b1c2-4630-9ea1-925f201f477f/c85d85e8-50d6-45bc-b5df-6683bbb9c428"
+      (reference "D30") (unit 1) (value "1N4148") (footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal")
+    )
+    (path "/eb09f9fb-b1c2-4630-9ea1-925f201f477f/071f2c56-fd06-41f1-9f6b-9134c4eb9995"
+      (reference "D31") (unit 1) (value "1N4148") (footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal")
+    )
+    (path "/eb09f9fb-b1c2-4630-9ea1-925f201f477f/65dc1843-087c-4b30-8eaa-bf4789279c1c"
+      (reference "D32") (unit 1) (value "1N4148") (footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal")
+    )
+    (path "/eb09f9fb-b1c2-4630-9ea1-925f201f477f/7bcdcf58-b96b-417d-8599-8fdc4fe72dc1"
+      (reference "D33") (unit 1) (value "1N4148") (footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal")
+    )
+    (path "/eb09f9fb-b1c2-4630-9ea1-925f201f477f/8b2139dd-16a7-4c1b-abef-20b9c5b5a633"
+      (reference "D34") (unit 1) (value "1N4148") (footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal")
+    )
+    (path "/eb09f9fb-b1c2-4630-9ea1-925f201f477f/124746cf-bbc0-413c-98ca-9839ac2bc69d"
+      (reference "D35") (unit 1) (value "1N4148") (footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal")
+    )
+    (path "/eb09f9fb-b1c2-4630-9ea1-925f201f477f/f71173b4-f9e1-44d9-8183-6baf305d6ad9"
+      (reference "D36") (unit 1) (value "1N4148") (footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal")
+    )
+    (path "/eb09f9fb-b1c2-4630-9ea1-925f201f477f/70cdb313-583c-4cf9-b0a5-a41996f30308"
+      (reference "D38") (unit 1) (value "1N4148") (footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal")
+    )
+    (path "/eb09f9fb-b1c2-4630-9ea1-925f201f477f/acda1ed8-2475-459f-9946-c02e9d8b31d0"
+      (reference "D40") (unit 1) (value "1N4148") (footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal")
+    )
+    (path "/eb09f9fb-b1c2-4630-9ea1-925f201f477f/57e7a217-7321-4488-b387-511933599524"
+      (reference "D41") (unit 1) (value "1N4148") (footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal")
+    )
+    (path "/eb09f9fb-b1c2-4630-9ea1-925f201f477f/f51333e2-123f-438e-a2fe-effb157ce444"
+      (reference "D42") (unit 1) (value "1N4148") (footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal")
+    )
+    (path "/eb09f9fb-b1c2-4630-9ea1-925f201f477f/f27b2071-244f-4cc1-968a-4d8fa9ed343f"
+      (reference "D43") (unit 1) (value "1N4148") (footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal")
+    )
+    (path "/eb09f9fb-b1c2-4630-9ea1-925f201f477f/f6a387d7-419a-48f9-99fa-9eefe863c47c"
+      (reference "D44") (unit 1) (value "1N4148") (footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal")
+    )
+    (path "/eb09f9fb-b1c2-4630-9ea1-925f201f477f/32a8c94b-e2a4-4e94-b725-a715ebeafd5a"
+      (reference "D45") (unit 1) (value "1N4148") (footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal")
+    )
+    (path "/eb09f9fb-b1c2-4630-9ea1-925f201f477f/557bcd96-7d03-4ae9-b67d-a3ab61c98c47"
+      (reference "D46") (unit 1) (value "1N4148") (footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal")
+    )
+    (path "/eb09f9fb-b1c2-4630-9ea1-925f201f477f/e7aa3e79-7b0c-4d0b-b67a-2569ee26c42a"
+      (reference "D50") (unit 1) (value "1N4148") (footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal")
+    )
+    (path "/eb09f9fb-b1c2-4630-9ea1-925f201f477f/ca901836-2ce4-440b-960c-17d17c06e58f"
+      (reference "D51") (unit 1) (value "1N4148") (footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal")
+    )
+    (path "/eb09f9fb-b1c2-4630-9ea1-925f201f477f/a851e091-cf42-4e2f-93ab-93cb0dbb901a"
+      (reference "D52") (unit 1) (value "1N4148") (footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal")
+    )
+    (path "/eb09f9fb-b1c2-4630-9ea1-925f201f477f/66cdd663-6f81-4ca2-a573-270343702d5f"
+      (reference "D53") (unit 1) (value "1N4148") (footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal")
+    )
+    (path "/eb09f9fb-b1c2-4630-9ea1-925f201f477f/f3074e5e-6c66-41f1-996f-4e7b622103c7"
+      (reference "D54") (unit 1) (value "1N4148") (footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal")
+    )
+    (path "/eb09f9fb-b1c2-4630-9ea1-925f201f477f/d2478fab-de9d-42b9-a172-6b603b9995eb"
+      (reference "D60") (unit 1) (value "1N4148") (footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal")
+    )
+    (path "/eb09f9fb-b1c2-4630-9ea1-925f201f477f/1067e122-c056-4ff8-a606-3e52de89765e"
+      (reference "D61") (unit 1) (value "1N4148") (footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal")
+    )
+    (path "/eb09f9fb-b1c2-4630-9ea1-925f201f477f/f7bdd02e-5534-495c-855f-9392958971be"
+      (reference "D62") (unit 1) (value "1N4148") (footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal")
+    )
+    (path "/eb09f9fb-b1c2-4630-9ea1-925f201f477f/8c7abe2e-4a5b-440b-bd90-77de828c3b17"
+      (reference "D63") (unit 1) (value "1N4148") (footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal")
+    )
+    (path "/eb09f9fb-b1c2-4630-9ea1-925f201f477f/c0fa41bf-48d6-4e7a-b29c-67f66040e32f"
+      (reference "D64") (unit 1) (value "1N4148") (footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal")
+    )
+    (path "/eb09f9fb-b1c2-4630-9ea1-925f201f477f/90c38995-99e2-4ab4-97af-955788ea1971"
+      (reference "D70") (unit 1) (value "1N4148") (footprint "Diode_SMD:D_0805_2012Metric")
+    )
+    (path "/eb09f9fb-b1c2-4630-9ea1-925f201f477f/e7601d57-a1de-47b6-96e0-ed8484625580"
+      (reference "D71") (unit 1) (value "1N4148") (footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal")
+    )
+    (path "/eb09f9fb-b1c2-4630-9ea1-925f201f477f/036b815e-b9cf-46d5-9da9-5193577c4686"
+      (reference "D72") (unit 1) (value "1N4148") (footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal")
+    )
+    (path "/eb09f9fb-b1c2-4630-9ea1-925f201f477f/3babeb62-3621-41e9-85d0-e614d24ca44b"
+      (reference "D73") (unit 1) (value "1N4148") (footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal")
+    )
+    (path "/eb09f9fb-b1c2-4630-9ea1-925f201f477f/e15a8528-85a8-4cc7-9af6-84855bdd16e4"
+      (reference "D74") (unit 1) (value "1N4148") (footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal")
+    )
+    (path "/eb09f9fb-b1c2-4630-9ea1-925f201f477f/e867bf15-7479-4104-92d2-f1d6a65625d3"
+      (reference "D81") (unit 1) (value "1N4148") (footprint "Diode_SMD:D_0805_2012Metric")
+    )
+    (path "/eb09f9fb-b1c2-4630-9ea1-925f201f477f/40aa634b-fa76-431a-893e-98b08cb1a189"
+      (reference "D82") (unit 1) (value "1N4148") (footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal")
+    )
+    (path "/eb09f9fb-b1c2-4630-9ea1-925f201f477f/e390891f-d4b5-4616-9209-3d8839c28014"
+      (reference "D83") (unit 1) (value "1N4148") (footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal")
+    )
+    (path "/eb09f9fb-b1c2-4630-9ea1-925f201f477f/33cbe7f8-df9a-47c9-b073-253324bc22e7"
+      (reference "D84") (unit 1) (value "1N4148") (footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal")
+    )
+    (path "/eb09f9fb-b1c2-4630-9ea1-925f201f477f/4550cb72-0422-4026-9cab-9733a233a522"
+      (reference "D88") (unit 1) (value "1N4148") (footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal")
     )
     (path "/c8853cbc-0032-4a00-8523-4b175b457533"
       (reference "DL1") (unit 1) (value "WS2812B") (footprint "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm")
@@ -2973,16 +3144,187 @@
       (reference "JP1") (unit 1) (value "LED_PWR") (footprint "Jumper:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm")
     )
     (path "/eb09f9fb-b1c2-4630-9ea1-925f201f477f/b967e9d0-e03d-45ad-9ae1-1e09bcc9895d"
-      (reference "K00") (unit 1) (value "1u") (footprint "acheron:MX100H")
+      (reference "K0") (unit 1) (value "1u") (footprint "acheron:MX100H")
     )
     (path "/eb09f9fb-b1c2-4630-9ea1-925f201f477f/4fe6c330-4d30-4322-8d18-29b93b26766e"
-      (reference "K01") (unit 1) (value "1u") (footprint "acheron:MX100H")
+      (reference "K1") (unit 1) (value "1u") (footprint "acheron:MX100H")
+    )
+    (path "/eb09f9fb-b1c2-4630-9ea1-925f201f477f/4bee136e-7a95-45af-96e0-abc523612965"
+      (reference "K2") (unit 1) (value "1u") (footprint "acheron:MX100H")
+    )
+    (path "/eb09f9fb-b1c2-4630-9ea1-925f201f477f/a69f4b8e-2a39-4348-b4fb-fbb69de02eae"
+      (reference "K3") (unit 1) (value "1u") (footprint "acheron:MX100H")
+    )
+    (path "/eb09f9fb-b1c2-4630-9ea1-925f201f477f/08ca289e-52e8-483b-9a5d-9d3efda607c7"
+      (reference "K4") (unit 1) (value "1u") (footprint "acheron:MX100H")
+    )
+    (path "/eb09f9fb-b1c2-4630-9ea1-925f201f477f/68d743a7-8ccc-4251-aee8-233c85773719"
+      (reference "K5") (unit 1) (value "1u") (footprint "acheron:MX100H")
+    )
+    (path "/eb09f9fb-b1c2-4630-9ea1-925f201f477f/14c477e7-cb04-4ebc-ab34-e17cd84e9a3d"
+      (reference "K6") (unit 1) (value "1u") (footprint "acheron:MX100H")
+    )
+    (path "/eb09f9fb-b1c2-4630-9ea1-925f201f477f/dc25d967-5b55-4cc6-937a-61ff337f0fe2"
+      (reference "K7") (unit 1) (value "1u") (footprint "acheron:MX100H")
+    )
+    (path "/eb09f9fb-b1c2-4630-9ea1-925f201f477f/881d4caa-eec5-4375-85c0-6ccf856565c4"
+      (reference "K8") (unit 1) (value "2u") (footprint "acheron:MX200H")
     )
     (path "/eb09f9fb-b1c2-4630-9ea1-925f201f477f/7dddf94d-67a7-4332-a46c-6edecb301ff2"
       (reference "K10") (unit 1) (value "1u") (footprint "acheron:MX100H")
     )
     (path "/eb09f9fb-b1c2-4630-9ea1-925f201f477f/2f31e789-b7c8-41a5-ab22-148c3c3b57cf"
       (reference "K11") (unit 1) (value "1u") (footprint "acheron:MX100H")
+    )
+    (path "/eb09f9fb-b1c2-4630-9ea1-925f201f477f/75bc49df-4d4d-461c-99b9-7f838af42b61"
+      (reference "K12") (unit 1) (value "1u") (footprint "acheron:MX100H")
+    )
+    (path "/eb09f9fb-b1c2-4630-9ea1-925f201f477f/6a702160-03b4-403b-8bea-3fdba3af84fa"
+      (reference "K13") (unit 1) (value "1u") (footprint "acheron:MX100H")
+    )
+    (path "/eb09f9fb-b1c2-4630-9ea1-925f201f477f/3414c9b8-cf00-4294-bce2-8fe00da07281"
+      (reference "K14") (unit 1) (value "1u") (footprint "acheron:MX100H")
+    )
+    (path "/eb09f9fb-b1c2-4630-9ea1-925f201f477f/68f1656c-d7a4-4f85-a541-6d5fcfcbf917"
+      (reference "K15") (unit 1) (value "1u") (footprint "acheron:MX100H")
+    )
+    (path "/eb09f9fb-b1c2-4630-9ea1-925f201f477f/529b1897-9240-4da7-91b2-3adb4610e76f"
+      (reference "K16") (unit 1) (value "1u") (footprint "acheron:MX100H")
+    )
+    (path "/eb09f9fb-b1c2-4630-9ea1-925f201f477f/c16b696e-cf0c-4390-96e4-dc597c68aec9"
+      (reference "K17") (unit 1) (value "1u") (footprint "acheron:MX100H")
+    )
+    (path "/eb09f9fb-b1c2-4630-9ea1-925f201f477f/d7e80224-d424-42a0-903c-d4eab018218f"
+      (reference "K18") (unit 1) (value "1.5u") (footprint "acheron:MX150H")
+    )
+    (path "/eb09f9fb-b1c2-4630-9ea1-925f201f477f/b20ab887-eae9-4d6a-b78a-95de996db585"
+      (reference "K20") (unit 1) (value "1u") (footprint "acheron:MX100H")
+    )
+    (path "/eb09f9fb-b1c2-4630-9ea1-925f201f477f/5661eb4d-538b-46d6-b590-4c850a23f5bc"
+      (reference "K21") (unit 1) (value "1u") (footprint "acheron:MX100H")
+    )
+    (path "/eb09f9fb-b1c2-4630-9ea1-925f201f477f/a1441cbb-f8db-4eb9-8be1-a0b66be4b5cb"
+      (reference "K22") (unit 1) (value "1u") (footprint "acheron:MX100H")
+    )
+    (path "/eb09f9fb-b1c2-4630-9ea1-925f201f477f/8aaeac54-fb99-48fc-8347-8d78f38772dc"
+      (reference "K23") (unit 1) (value "1u") (footprint "acheron:MX100H")
+    )
+    (path "/eb09f9fb-b1c2-4630-9ea1-925f201f477f/eaec892a-e459-49f0-afbd-6bea5a8af5ff"
+      (reference "K24") (unit 1) (value "1u") (footprint "acheron:MX100H")
+    )
+    (path "/eb09f9fb-b1c2-4630-9ea1-925f201f477f/f65b65b4-2692-48f7-828a-9a09a1837f74"
+      (reference "K25") (unit 1) (value "1u") (footprint "acheron:MX100H")
+    )
+    (path "/eb09f9fb-b1c2-4630-9ea1-925f201f477f/0619746a-56c9-4fc5-8d67-ba58a89bf420"
+      (reference "K26") (unit 1) (value "1u") (footprint "acheron:MX100H")
+    )
+    (path "/eb09f9fb-b1c2-4630-9ea1-925f201f477f/7c1278bc-d639-451e-99ce-bb28f3d70336"
+      (reference "K27") (unit 1) (value "2.25u") (footprint "acheron:MX225H")
+    )
+    (path "/eb09f9fb-b1c2-4630-9ea1-925f201f477f/5b023230-346c-4e8f-9e66-3dba07054cc4"
+      (reference "K30") (unit 1) (value "1u") (footprint "acheron:MX100H")
+    )
+    (path "/eb09f9fb-b1c2-4630-9ea1-925f201f477f/11a956b3-79f8-411b-9c7c-4a8c9a71f084"
+      (reference "K31") (unit 1) (value "1u") (footprint "acheron:MX100H")
+    )
+    (path "/eb09f9fb-b1c2-4630-9ea1-925f201f477f/382ee2ad-d725-4712-9310-857bc7a64a3a"
+      (reference "K32") (unit 1) (value "1u") (footprint "acheron:MX100H")
+    )
+    (path "/eb09f9fb-b1c2-4630-9ea1-925f201f477f/3ff9e87b-e631-45f3-9ddc-225b8760314f"
+      (reference "K33") (unit 1) (value "1u") (footprint "acheron:MX100H")
+    )
+    (path "/eb09f9fb-b1c2-4630-9ea1-925f201f477f/0d2233d4-b6cb-480e-bfce-91fbd3ac56ec"
+      (reference "K34") (unit 1) (value "1u") (footprint "acheron:MX100H")
+    )
+    (path "/eb09f9fb-b1c2-4630-9ea1-925f201f477f/56fa7a85-1c2c-44d3-9efe-eb17a4d789dd"
+      (reference "K35") (unit 1) (value "1u") (footprint "acheron:MX100H")
+    )
+    (path "/eb09f9fb-b1c2-4630-9ea1-925f201f477f/67bfff12-8d4c-49fa-8abc-e322b6ddb122"
+      (reference "K36") (unit 1) (value "2.75u") (footprint "acheron:MX275H")
+    )
+    (path "/eb09f9fb-b1c2-4630-9ea1-925f201f477f/af7ad082-0846-4793-9f62-0491bdbde6d0"
+      (reference "K38") (unit 1) (value "1u") (footprint "acheron:MX100H")
+    )
+    (path "/eb09f9fb-b1c2-4630-9ea1-925f201f477f/3d66474d-aeb8-4f5a-acf3-fec9af3e739a"
+      (reference "K40") (unit 1) (value "1u") (footprint "acheron:MX100H")
+    )
+    (path "/eb09f9fb-b1c2-4630-9ea1-925f201f477f/8a2cd6bd-4506-400b-99da-a91f149513e0"
+      (reference "K41") (unit 1) (value "1.25u") (footprint "acheron:MX125H")
+    )
+    (path "/eb09f9fb-b1c2-4630-9ea1-925f201f477f/75e91e14-6028-4d66-bd12-bf132400e905"
+      (reference "K42") (unit 1) (value "1.25u") (footprint "acheron:MX125H")
+    )
+    (path "/eb09f9fb-b1c2-4630-9ea1-925f201f477f/8b1494b6-d9ab-4e20-a35f-5049a3fb05a2"
+      (reference "K43") (unit 1) (value "2.75u") (footprint "acheron:MX275HR")
+    )
+    (path "/eb09f9fb-b1c2-4630-9ea1-925f201f477f/f34a67de-9a72-4039-9c93-80236c03c50d"
+      (reference "K44") (unit 1) (value "1u") (footprint "acheron:MX100H")
+    )
+    (path "/eb09f9fb-b1c2-4630-9ea1-925f201f477f/b1120f2c-2aaa-4774-ab2f-6f242788a5c6"
+      (reference "K45") (unit 1) (value "1u") (footprint "acheron:MX100H")
+    )
+    (path "/eb09f9fb-b1c2-4630-9ea1-925f201f477f/1095d0dc-b220-4409-9f1c-95f58f4a4a7c"
+      (reference "K46") (unit 1) (value "1u") (footprint "acheron:MX100H")
+    )
+    (path "/eb09f9fb-b1c2-4630-9ea1-925f201f477f/71182720-d624-430f-bda5-240f6664ab26"
+      (reference "K50") (unit 1) (value "1u") (footprint "acheron:MX100H")
+    )
+    (path "/eb09f9fb-b1c2-4630-9ea1-925f201f477f/99e69273-e414-495d-a06c-7bfa39b8882c"
+      (reference "K51") (unit 1) (value "1u") (footprint "acheron:MX100H")
+    )
+    (path "/eb09f9fb-b1c2-4630-9ea1-925f201f477f/33cfa8b5-ff74-43d4-aca8-563fc7eff84c"
+      (reference "K52") (unit 1) (value "1u") (footprint "acheron:MX100H")
+    )
+    (path "/eb09f9fb-b1c2-4630-9ea1-925f201f477f/ce1143c0-42ee-40a0-b8bc-569e43d6eb27"
+      (reference "K53") (unit 1) (value "1u") (footprint "acheron:MX100H")
+    )
+    (path "/eb09f9fb-b1c2-4630-9ea1-925f201f477f/8959e8a2-a222-4ff8-aa72-6d1b10a2493c"
+      (reference "K54") (unit 1) (value "1u") (footprint "acheron:MX100H")
+    )
+    (path "/eb09f9fb-b1c2-4630-9ea1-925f201f477f/a411a15b-0cd7-42bb-a7a6-1d6aa83107b4"
+      (reference "K60") (unit 1) (value "1u") (footprint "acheron:MX100H")
+    )
+    (path "/eb09f9fb-b1c2-4630-9ea1-925f201f477f/b683065b-68d8-46d1-ae66-5999c300557e"
+      (reference "K61") (unit 1) (value "1u") (footprint "acheron:MX100H")
+    )
+    (path "/eb09f9fb-b1c2-4630-9ea1-925f201f477f/dcf657c2-eec6-4f09-a39d-e7ae10f5c839"
+      (reference "K62") (unit 1) (value "1u") (footprint "acheron:MX100H")
+    )
+    (path "/eb09f9fb-b1c2-4630-9ea1-925f201f477f/865db85a-847d-4a86-8063-3c3835e6c207"
+      (reference "K63") (unit 1) (value "1u") (footprint "acheron:MX100H")
+    )
+    (path "/eb09f9fb-b1c2-4630-9ea1-925f201f477f/0a4da4a3-f04d-4633-a829-c3cd1ceaa6fa"
+      (reference "K64") (unit 1) (value "1u") (footprint "acheron:MX100H")
+    )
+    (path "/eb09f9fb-b1c2-4630-9ea1-925f201f477f/12a2245b-6001-4e2d-8f58-7777b3b2883d"
+      (reference "K70") (unit 1) (value "1u") (footprint "acheron:MX100H")
+    )
+    (path "/eb09f9fb-b1c2-4630-9ea1-925f201f477f/c9a57d2c-d480-4585-b74d-3d84a6350f0c"
+      (reference "K71") (unit 1) (value "1u") (footprint "acheron:MX100H")
+    )
+    (path "/eb09f9fb-b1c2-4630-9ea1-925f201f477f/392395e8-4d57-42d7-bf80-0c1f9722a100"
+      (reference "K72") (unit 1) (value "1u") (footprint "acheron:MX100H")
+    )
+    (path "/eb09f9fb-b1c2-4630-9ea1-925f201f477f/27524aad-edea-4c6c-849b-2d6951bf041b"
+      (reference "K73") (unit 1) (value "1u") (footprint "acheron:MX100H")
+    )
+    (path "/eb09f9fb-b1c2-4630-9ea1-925f201f477f/2c76812b-f68d-4e56-ad76-5ec5aa2b309b"
+      (reference "K74") (unit 1) (value "1u") (footprint "acheron:MX100H")
+    )
+    (path "/eb09f9fb-b1c2-4630-9ea1-925f201f477f/c0c968f3-96dd-4192-ae48-d8765eeea200"
+      (reference "K81") (unit 1) (value "1u") (footprint "acheron:MX100H")
+    )
+    (path "/eb09f9fb-b1c2-4630-9ea1-925f201f477f/a60b32c7-129b-4545-aeef-9cecc8819757"
+      (reference "K82") (unit 1) (value "1u") (footprint "acheron:MX100H")
+    )
+    (path "/eb09f9fb-b1c2-4630-9ea1-925f201f477f/89ed935e-2789-482d-9bf6-93e85bf307c4"
+      (reference "K83") (unit 1) (value "1u") (footprint "acheron:MX100H")
+    )
+    (path "/eb09f9fb-b1c2-4630-9ea1-925f201f477f/cecdc3f9-8da1-4abc-91a6-38c1e376cfc4"
+      (reference "K84") (unit 1) (value "1u") (footprint "acheron:MX100H")
+    )
+    (path "/eb09f9fb-b1c2-4630-9ea1-925f201f477f/5adf8e3e-a868-492a-9fb0-7f77df3146f1"
+      (reference "K88") (unit 1) (value "1u") (footprint "acheron:MX100H")
     )
     (path "/177b91ee-a939-4d9b-95ba-f7371b7fd5f4"
       (reference "R1") (unit 1) (value "10k") (footprint "Resistor_SMD:R_0805_2012Metric")
