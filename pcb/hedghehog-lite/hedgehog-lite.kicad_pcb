@@ -911,7 +911,7 @@
       (net 39 "COL1") (pinfunction "A") (pintype "passive") (tstamp 360298c5-0610-4119-ad7f-d7e7775932b5))
     (pad "2" smd roundrect (at 7.366 -2.54) (size 2.54 2.54) (layers "F.Cu" "F.Mask") (roundrect_rratio 0.1)
       (net 83 "Net-(D41-Pad2)") (pinfunction "B") (pintype "passive") (tstamp bcd1f283-616e-4643-866e-6ec8cf4c8cd1))
-    (model "${ACHERON_3D}/"
+    (model "${ACHERON_3D}/kailh_socket_mx.stp"
       (offset (xyz 0.6 3.8 1.8))
       (scale (xyz 1 1 1))
       (rotate (xyz 180 0 0))
@@ -2109,7 +2109,7 @@
       (net 106 "COL2") (pinfunction "A") (pintype "passive") (tstamp 98b70312-d7ab-416c-90bf-7624e69e89d6))
     (pad "2" smd roundrect (at 7.366 -2.54) (size 2.54 2.54) (layers "F.Cu" "F.Mask") (roundrect_rratio 0.1)
       (net 84 "Net-(D42-Pad2)") (pinfunction "B") (pintype "passive") (tstamp 8f096b76-6cec-4431-8240-3d225691ac41))
-    (model "${ACHERON_3D}/"
+    (model "${ACHERON_3D}/kailh_socket_mx.stp"
       (offset (xyz 0.6 3.8 1.8))
       (scale (xyz 1 1 1))
       (rotate (xyz 180 0 0))
@@ -2793,6 +2793,11 @@
       (net 138 "DP") (pinfunction "Pin_3") (pintype "passive") (tstamp aba5771c-17dc-40fd-b883-50abc5725bad))
     (pad "4" smd rect locked (at 1.5 -4.775 90) (size 0.6 1.55) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 3 "GND") (pinfunction "Pin_4") (pintype "passive") (tstamp 81081896-ebf3-43dd-8528-527e82b22722))
+    (model "/Users/Max/Repos/AlexandriaLibrary/3d_models/SM04B-SRSS-TB.STEP"
+      (offset (xyz 0 4.191 -0.3048))
+      (scale (xyz 1 1 1))
+      (rotate (xyz -90 0 0))
+    )
   )
 
   (footprint "acheron:MX100H" (layer "F.Cu")
