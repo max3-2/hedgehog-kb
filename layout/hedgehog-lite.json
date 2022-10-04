@@ -259,9 +259,6 @@
     },
     "CMD",
     {
-      "sm": "cherry",
-      "sb": "gateron",
-      "st": "KS-3-Green",
       "f": 3,
       "w": 2.75
     },
