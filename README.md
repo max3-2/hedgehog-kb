@@ -49,10 +49,12 @@ The above should make it clear that **even with an assembled PCB** minimal solde
 Case will be designed for either laser cutting or printing / milling. Currently,
 the case is layered for cutting so some cutouts aren't perfect but milling is
 not feasible in prototyping and small batch. Current color design is frosted
-bottom, blue mid, warm yellow felt and brass plate.
+bottom, blue mid, warm yellow felt and brass plate. Overall height will be 16.5mm
+to plate surface. Feets are optional and might get added to tent the whole case.
 
-Bottom and three rings will be screwed from below. Plate will be screwed from
-top into preassembled bottom.
+Bottom and three rings (one acrylic, two blue, split not visible in render)
+will be screwed from below. Plate will be screwed from top into preassembled
+bottom.
 
 Plate is designed to be aluminum or brass, and the plate mount is done via a
 felt / cork dampening layer and springs. Plate logo is optional depending on
