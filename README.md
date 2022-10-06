@@ -2,7 +2,7 @@
 
 A 60ish keyboard with a new case design (TBA). This has been heavily inspired
 by the layout of [Purple Owl](https://github.com/SonalPinto/purple-owl) but I
-wanted a more programmer friendly right side with larger core keys. So I 
+wanted a more programmer friendly right side with larger core keys. So I
 changed some keys and also redesigned the PCB to use a more standard
 QMK approach.
 
@@ -46,7 +46,24 @@ The above should make it clear that **even with an assembled PCB** minimal solde
 
 ## Case and Mount
 
-Case will be designed for either laser cutting or printing / milling. Plate mount will be special, stay tuned!
+Case will be designed for either laser cutting or printing / milling. Currently,
+the case is layered for cutting so some cutouts aren't perfect but milling is
+not feasible in prototyping and small batch. Current color design is frosted
+bottom, blue mid, warm yellow felt and brass plate.
+
+Bottom and three rings will be screwed from below. Plate will be screwed from
+top into preassembled bottom.
+
+Plate is designed to be aluminum or brass, and the plate mount is done via a
+felt / cork dampening layer and springs. Plate logo is optional depending on
+engraving capabilities of specific shops.
+
+Initial CAD renders below showing top, spring mount in comparison with
+switch size and the connector which is currently placed at the left side.
+
+![(Hedgehog Lite Case Top)](assets/case-render-top.png)
+![(Hedgehog Lite Case Detail)](assets/case-render-sizing.png)
+![(Hedgehog Lite Connector)](assets/case-render-conn.png)
 
 ## Name
 Because its autumn and that's the perfect time for them!
