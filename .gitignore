@@ -5,3 +5,6 @@
 
 # ignore backups by kicad
 *-backups*
+
+# apple specific files
+*.numbers
