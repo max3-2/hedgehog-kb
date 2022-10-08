@@ -1,0 +1,11 @@
+
+{
+    "rgblight": {
+        "animations": {
+            "all": false,
+        },
+        "default_hue": 64,
+        "default_sat": 235,
+        "default_val": 230,
+    }
+}
