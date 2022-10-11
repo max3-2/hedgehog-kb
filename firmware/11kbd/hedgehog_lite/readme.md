@@ -1,10 +1,10 @@
 # hedgehog-lite
 
-![hedgehog-lite](https://imgur.com/a/vMM5kzg)
+![hedgehog-lite](../../../assets/case-render-top.png)
 
 *A shaped 60-ish keyboard with a soft felt mount*
 
-* Keyboard Maintainer: [Max Elfner](https://github.com/Max Elfner)
+* Keyboard Maintainer: [max3-2](https://github.com/max3-2/hedgehog-kb)
 * Hardware Supported: Custom PCB with QMK support build on Mega32u4
 
 Make example for this keyboard (after setting up your build environment):
