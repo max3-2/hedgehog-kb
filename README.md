@@ -6,6 +6,15 @@ wanted a more programmer friendly right side with larger core keys. So I
 changed some keys and also redesigned the PCB to use a more standard
 QMK approach.
 
+TL;DR: Pricing and surplus parts listed at the end!
+
+## Status
+
+- PCB design done
+- Case design finished
+- Ordered PCBs for Daughterboard and Keyboard
+- Sourcing part manufacturers for casing
+
 ## Layout
 
 The layout is somewhat odd. The aim was to have a good amount of modifiers
@@ -16,7 +25,19 @@ layout ended up like this
 
 ![(Hedgehog Lite Layout)](assets/hedgehog-lite.png)
 
-## PCB
+## Assembly
+
+ToDo
+
+#### PCB
+
+ToDo
+
+#### Case
+
+ToDo
+
+## PCB Details
 
 The PCB is a basic QMK capable **ATmega32U4** row-col setup, using 9 rows and 9 columns. The PCB was designed in KiCAD and the current design is somewhere between WiP and ready for a prototype. Cool features include a good number of underglow (15) LEDs and some flex cuts. Switch sockets are hotswap and layout is a single fixed one,
 derived from ANSI. No stepped caps or any splits at this point.
@@ -44,7 +65,7 @@ Afterwards, USB flashing using *RST* over USB *should* work (confirm that *HWB* 
 
 The above should make it clear that **even with an assembled PCB** minimal soldering is required for full functionality. I will only have one PCB side assembled to save money - so when **using this procedure or leftover PCBs** I might offer the reset switch has to be placed and soldered afterwards to allow bootloader flash.
 
-## Case and Mount
+## Case and Mount Details
 
 Case will be designed for either laser cutting or printing / milling. Currently,
 the case is layered for cutting so some cutouts aren't perfect but milling is
@@ -69,3 +90,16 @@ switch size and the connector which is currently placed at the left side.
 
 ## Name
 Because its autumn and that's the perfect time for them!
+
+## Cost breakdown
+
+Obviously, this is a prototype / small batch so pricing will a) comparable high
+and b) differ in different locations. Also, due to my profession, I do have some
+connection which make some of the steps easier. Cost is listed for an order
+of (at least) five keyboards. Last column shows parts which are surplus (contact
+me if you are interested!)
+
+| **Part** | **Produced by / at** | **Price** | **# available** | **Remark** |
+|----------|----------------------|-----------|-----------------|------------|
+| Main PCB | JLCPCB assembled | 35€ | 3 | One side assembled, RST switch and jumpers need soldering, parts included |
+| Unified Daughterboard with cable | JLCPCB assembled | 10€ | 3 | PCB is 1.2mm for increased spacing! |
