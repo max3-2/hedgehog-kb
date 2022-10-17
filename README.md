@@ -2,7 +2,7 @@
 
 A 60ish keyboard with a new case design (TBA). This has been heavily inspired
 by the layout of [Purple Owl](https://github.com/SonalPinto/purple-owl) but I
-wanted a more programmer friendly right side with larger core keys. So I
+wanted a more programmer friendly right side with larger modifier keys. So I
 changed some keys and also redesigned the PCB to use a more standard
 QMK approach.
 
@@ -96,7 +96,7 @@ Because its autumn and that's the perfect time for them!
 Obviously, this is a prototype / small batch so pricing will a) comparable high
 and b) differ in different locations. Also, due to my profession, I do have some
 connection which make some of the steps easier. Cost is listed for an order
-of (at least) five keyboards. Last column shows parts which are surplus (contact
+of (at least) five keyboards. Second to last column shows parts which are surplus (contact
 me if you are interested!)
 
 | **Part** | **Produced by / at** | **Price** | **# available** | **Remark** |
