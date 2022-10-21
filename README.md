@@ -10,10 +10,13 @@ TL;DR: Pricing and surplus parts listed at the end!
 
 ## Status
 
-- PCB design done
+- Found plate manufacturer, plates and weight will be brass laser cut. Plate
+will have engraving. Cost listed below, comparably cheap for low amount of parts
+and a strong reduction in cost with more parts expected.
+- Sourcing part manufacturers for casing
 - Case design finished
 - Ordered PCBs for Daughterboard and Keyboard
-- Sourcing part manufacturers for casing
+- PCB design done
 
 ## Layout
 
@@ -101,5 +104,7 @@ me if you are interested!)
 
 | **Part** | **Produced by / at** | **Price** | **# available** | **Remark** |
 |----------|----------------------|-----------|-----------------|------------|
-| Main PCB | JLCPCB assembled | 35€ | 3 | One side assembled, RST switch and jumpers need soldering, parts included |
-| Unified Daughterboard with cable | JLCPCB assembled | 10€ | 3 | PCB is 1.2mm for increased spacing! |
+| Main PCB | JLCPCB assembled | 35€ | 3 | One side assembled, RST switch and jumpers need soldering, parts included. |
+| Unified Daughterboard (with cable) | JLCPCB assembled | 10€ | 3 | PCB is 1.2mm for increased spacing! |
+| Brass plate 1.5mm | Local shop | 35€ | 3 | Price includes engraved hedgehog and basic removal of burrs. Might glassbead blast it later for satin looks. |
+| Brass weight 2mm | Local shop | 10€ | 3 | Only two millimeter due to material availability - will add some weight and looks! |
