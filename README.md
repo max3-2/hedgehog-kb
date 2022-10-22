@@ -10,6 +10,8 @@ TL;DR: Pricing and surplus parts listed at the end!
 
 ## Status
 
+- Plated ETA at 15/11, felt layer ETA 15/11, case parts also ordered with no
+ETA. Pricing see below.
 - PCBs have arrived and tested good.
 - Found plate manufacturer, plates and weight will be brass laser cut. Plate
 will have engraving. Cost listed below, comparably cheap for low amount of parts
@@ -229,3 +231,6 @@ of (at least) five keyboards. Second to last column shows parts which are surplu
 | Unified Daughterboard (with cable) | JLCPCB assembled | 10€ | 3 | PCB is 1.2mm for increased spacing! |
 | Brass plate 1.5mm | Local shop | 35€ | 3 | Price includes engraved hedgehog and basic removal of burrs. Might glassbead blast it later for satin looks. |
 | Brass weight 2mm | Local shop | 10€ | 3 | Only two millimeter due to material availability - will add some weight and looks! |
+| Case lower frosted acrylic | Local shop | 25€ | none | No discount for multiple parts |
+| Case mid colored acrylic | Local shop | 35€ | none | No discount for multiple parts |
+| Felt damper | Local shop | 8€ | 3 |  |
