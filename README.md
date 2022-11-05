@@ -168,7 +168,7 @@ Finally, assemble the four acrylic parts (bottom, frosted ring, blue ring, top
 blue ring). Place felt layer (in my case orange) on top. Some impressions:
 
 ![(So many parts)](assets/parts-2.jpg)
-![(Post processing)](assets/threads.jpg)
+![(Post processing)](assets/thread_c.jpg)
 ![(Current assembly status)](assets/asmbl-2.jpg)
 
 TODO add the plate and springs on top!
