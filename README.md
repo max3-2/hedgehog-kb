@@ -1,6 +1,6 @@
 # Hedgehog
 
-A 60ish keyboard with a new case design (TBA). This has been heavily inspired
+A 60ish keyboard with a new plate-case design. This has been heavily inspired
 by the layout of [Purple Owl](https://github.com/SonalPinto/purple-owl) but I
 wanted a more programmer friendly right side with larger modifier keys. So I
 changed some keys and also redesigned the PCB to use a more standard
@@ -10,6 +10,8 @@ TL;DR: Pricing and surplus parts listed at the end!
 
 ## Status
 
+- Case assembled, only plate and weight left, ETA see below.
+- Case parts have arrived.
 - Plated ETA at 15/11, felt layer ETA 15/11, case parts also ordered with no
 ETA. Pricing see below.
 - PCBs have arrived and tested good.
@@ -33,7 +35,9 @@ layout ended up like this
 
 ## Assembly
 
-Final assembly goes here, part details and programing see below.
+Final assembly is described here in good detail with the parts I ordered for
+the first batch, if you make your own parts some steps might need adaption. Any
+question, just let me know!
 
 #### PCB
 
@@ -41,7 +45,9 @@ PCBs have arrived and look quite cool. All features seem to work! Tested both FW
 and all buttons, LEDs and other features work as expected.
 **TL;DR** *No need to solder any headers and ISP, out of the box PCBs accept
 initial firmware using `qmk flash` over USB!* Thanks, ATMEL (I guess, but please
-update your documentation!)
+update your documentation!).
+
+More informations? Keep on reading...
 
 ![(Hedgehog Lite PCB 1)](assets/pcb-fab-front.jpg)
 ![(Hedgehog Lite PCB 2)](assets/pcb-fab-detail.jpg)
@@ -150,7 +156,23 @@ now, !no cables are available from my side!
 
 #### Plate and Case
 
-ToDo
+Case acrylic parts have arrived. Cut quality is acceptable. This prototype is
+built with four layers just 2D cut, so some steps remain in creating the case:
+First, countersink the screw holes in the bottom (also, from the bottom side).
+I have a drill press, if by hand try to keep it as symmetric as possible. I then
+went on to cut the M3 threads for the six bolts for case assembly, which are
+only cut in the uppermost acrylic part. Pre-assemble two (in my case blue) top
+rings and cut five threads, M3, for plate from top. With only two rings you can
+cut the threads in an open hole and don't need to worry about the blind holes.
+Finally, assemble the four acrylic parts (bottom, frosted ring, blue ring, top
+blue ring). Place felt layer (in my case orange) on top. Some impressions:
+
+![(So many parts)](assets/parts-2.jpg)
+![(Post processing)](assets/threads.jpg)
+![(Current assembly status)](assets/asmbl-2.jpg)
+
+TODO add the plate and springs on top!
+
 
 ## PCB Details
 
