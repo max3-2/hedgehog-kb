@@ -7,6 +7,11 @@ changed some keys and also redesigned the PCB to use a more standard
 QMK approach. With LED support and some good keycaps, I think it is a great
 looking compact keyboard!
 
+The typing is damped by the felt layer but quite stable due to the pretty firm
+brass plate. The springs keep the plate in place but allow some flex as designed.
+Sound is really good for what I expected, but I added foam on the plate and
+without it the brass plate will be pingy with the missing support in the center.
+
 ![(Final product 1)](assets/teaser-1.jpg)
 ![(Final product 2)](assets/teaser-2.jpg)
 
@@ -60,7 +65,7 @@ ones.
 
 ![(PCB and plate assembly)](assets/foams-added.jpg)
 
-Finally, assemble plate and PCB with switches:
+Finally, assemble plate and PCB with switches (Tangerines linear):
 ![(Final assembly)](assets/pcb-and-plate-final.jpg)
 
 Place felt on case and align, place plate with PCB, and screw down with a soft
@@ -317,3 +322,4 @@ dimensioning is ok but fairly tight.
 stems
 - Find a way to keep the felt layer aligned, currently it tends to slide around
 a bit - purely a visual error but still needs improving.
+- Add some more layout options: Switch BS, Mod key right of return, ISO?
