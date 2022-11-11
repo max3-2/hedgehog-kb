@@ -4,12 +4,20 @@ A 60ish keyboard with a new plate-case design. This has been heavily inspired
 by the layout of [Purple Owl](https://github.com/SonalPinto/purple-owl) but I
 wanted a more programmer friendly right side with larger modifier keys. So I
 changed some keys and also redesigned the PCB to use a more standard
-QMK approach.
+QMK approach. With LED support and some good keycaps, I think it is a great
+looking compact keyboard!
+
+![(Final product 1)](assets/teaser-1.jpg)
+![(Final product 2)](assets/teaser-2.jpg)
 
 TL;DR: Pricing and surplus parts listed at the end!
 
+TL;DR 2: Some upcoming improvements listed at the end
+
 ## Status
 
+- I will add some feet, no angle is just too flat too type. ETA unknown.
+- Plates and weights have arrived, assembly finalized!
 - Case assembled, only plate and weight left, ETA see below.
 - Case parts have arrived.
 - Plated ETA at 15/11, felt layer ETA 15/11, case parts also ordered with no
@@ -38,6 +46,66 @@ layout ended up like this
 Final assembly is described here in good detail with the parts I ordered for
 the first batch, if you make your own parts some steps might need adaption. Any
 question, just let me know!
+
+With all parts produced, the case assembly comes first. See below for how I
+proceeded given the parts I had with just laser cutting. Bolts are M3 x 12.
+Keep in mind to install the daughterboard in between the case rings or just use
+two screws. Weight needs shorter bolts, M3 x 5 work or just cut down some
+longer ones.
+
+I then added switch pads and plate foam to PCB and plate, since brass plates
+often tend to be a little pingy. I chose some generic KBDfans stabilizers which
+was a bad choice since they rattle. Next re-assembly, I'll change to some better
+ones.
+
+![(PCB and plate assembly)](assets/foams-added.jpg)
+
+Finally, assemble plate and PCB with switches:
+![(Final assembly)](assets/pcb-and-plate-final.jpg)
+
+Place felt on case and align, place plate with PCB, and screw down with a soft
+washer, spring (see below in parts table) and bolt using the same M3 x 12. Done!
+Just add some keycaps, I chose PBTfans Resonance. Base Kit and 40s are a good
+fit, sometimes base kit is enough, just need the split spacebars.
+
+![(Final assembly done detail 1)](assets/final-detail-1.jpg)
+![(Final assembly done detail 2)](assets/final-detail-2.jpg)
+![(Final assembly overview)](assets/final-overview-1.jpg)
+
+#### Plate and Case
+
+##### Plate
+
+Plates and weights were laser cut but the first batch has issues with
+tolerances and surface quality. The engraving, especially, is barely visible.
+I tried to glassbead blast two samples which increased surface feel quality
+and produced usable samples. The engraving however vanishes. I have the leftover
+plates if someone wants them but keep those issued in mind.
+
+![(Final plate)](assets/more-final-parts.jpg)
+
+Same for the weights - but they are invisible. So for those I just cut the
+two threads and sanded them down a bit.
+
+![(Weight assembly)](assets/weight-fab.jpg)
+
+
+##### Case
+
+Case acrylic parts have been produced. Cut quality is acceptable. This prototype is
+built with four layers just 2D cut, so some steps remain in creating the case:
+First, countersink the screw holes in the bottom (also, from the bottom side).
+I have a drill press, if by hand try to keep it as symmetric as possible. I then
+went on to cut the M3 threads for the six bolts for case assembly, which are
+only cut in the uppermost acrylic part. Pre-assemble two (in my case blue) top
+rings and cut five threads, M3, for plate from top. With only two rings you can
+cut the threads in an open hole and don't need to worry about the blind holes.
+Finally, assemble the four acrylic parts (bottom, frosted ring, blue ring, top
+blue ring). Place felt layer (in my case orange) on top. Some impressions:
+
+![(So many parts)](assets/parts-2.jpg)
+![(Post processing)](assets/thread_c.jpg)
+![(Current assembly status)](assets/asmbl-2.jpg)
 
 #### PCB
 
@@ -154,26 +222,6 @@ I did find a custom cable shop in CN which can produce the cables for around
 Maybe if some group buy will run at some point, I will follow this route. For
 now, !no cables are available from my side!
 
-#### Plate and Case
-
-Case acrylic parts have arrived. Cut quality is acceptable. This prototype is
-built with four layers just 2D cut, so some steps remain in creating the case:
-First, countersink the screw holes in the bottom (also, from the bottom side).
-I have a drill press, if by hand try to keep it as symmetric as possible. I then
-went on to cut the M3 threads for the six bolts for case assembly, which are
-only cut in the uppermost acrylic part. Pre-assemble two (in my case blue) top
-rings and cut five threads, M3, for plate from top. With only two rings you can
-cut the threads in an open hole and don't need to worry about the blind holes.
-Finally, assemble the four acrylic parts (bottom, frosted ring, blue ring, top
-blue ring). Place felt layer (in my case orange) on top. Some impressions:
-
-![(So many parts)](assets/parts-2.jpg)
-![(Post processing)](assets/thread_c.jpg)
-![(Current assembly status)](assets/asmbl-2.jpg)
-
-TODO add the plate and springs on top!
-
-
 ## PCB Details
 
 The PCB is a basic QMK capable **ATmega32U4** row-col setup, using 9 rows and
@@ -256,3 +304,16 @@ of (at least) five keyboards. Second to last column shows parts which are surplu
 | Case lower frosted acrylic | Local shop | 25€ | none | No discount for multiple parts |
 | Case mid colored acrylic | Local shop | 35€ | none | No discount for multiple parts |
 | Felt damper | Local shop | 8€ | 3 |  |
+| Springs | Local shop | 2€ / pc. | 6 | I choose 6mm free length and compress them to approx. 3mm which generates 3N per spring. Inner diameter should match M3 (>3.5mm) and outer should not be much more than 5mm |
+| Hardware | Local shop | - | - | M3 x 12, M3 x 5, Nylon washers M3 |
+
+## ToDos for a V1.1
+
+- Improve GND on PCB for controller. Not needed since it works really good but
+better practice
+- Improve plate manufacture or / and increase switch opening size. The current
+dimensioning is ok but fairly tight.
+- Do the same for the stabs, if possible add at least 1mm left / right for the
+stems
+- Find a way to keep the felt layer aligned, currently it tends to slide around
+a bit - purely a visual error but still needs improving.
